@@ -7,7 +7,7 @@ This repository is to show all the work during the class Data 1201 in MTU. So yo
 | ------------- |:-------------:|:-------------:|
 | Week 1  | Starting Linux | -     |
 | Week 2  | Command Line Basics     | -     |
-| Week 3  | Workin with files     | -     |
-| Week 4  | Markdown   | This README.MD     |
+| Week 3  | Working with files     | -     |
+| Week 4  | Markdown   | This README.md     |
   
   
