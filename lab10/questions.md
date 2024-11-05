@@ -19,3 +19,5 @@ If I click and drag the data selected in the scatterplot is filter in the cells.
 # Questions for Post-Lab Assignment 10!
 
 ### Question 6: After the last step, some columns are empty. (You can check by text faceting a column) Why? What do you think we can do to fix it?
+
+I think that the problem is the spaces after and before the words. or maybe other words have two spaces instead of only one. that's why we see many empty columns. I think that we can trim the sentences before spliting
